@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
+title: "Charles A. Jennings"
 image: "images/author.jpg"
-email: "johndoe@logbook.com"
+email: "charles@truthinhistory.org"
 social:
   - icon : "fab fa-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "https://facebook.com"
