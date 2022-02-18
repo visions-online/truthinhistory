@@ -1,0 +1,3 @@
+baseURL = 'https://truthinhistory.pages.dev/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
