@@ -36,7 +36,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_action = "#" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # snipcart for shop
@@ -48,7 +48,7 @@ currency = "$"
 
 # promotion
 [promotion]
-title = "Create Stunning Website!!"
+title = "Order Free Magazine!!"
 content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
 image = "images/promotion.jpg"
 button_label = "Get Started"
@@ -126,15 +126,15 @@ link = "https://soundcloud.com/truth-in-history"
 
 [[social]]
 name = "podcast"
-icon = "fab fa-podcast" # fontawesome icons: https://fontawesome.com/icons/
-link = "https://soundcloud.com/truth-in-history"
+icon = "fas fa-podcast" # fontawesome icons: https://fontawesome.com/icons/
+link = "https://podcasts.apple.com/us/podcast/truth-in-history/id1056539548"
 
-[social]]
+[[social]]
 name = "spotify"
 icon = "fab fa-spotify" # fontawesome icons: https://fontawesome.com/icons/
 link = "https://open.spotify.com/show/74dydvrAwgPkrlKX1ADC3b?si=192cf13d0785407c"
 
-[social]]
+[[social]]
 name = "youtube"
 icon = "fab fa-youtube" # fontawesome icons: https://fontawesome.com/icons/
 link = "https://www.youtube.com/channel/UCjrdGab0LFLLEVKxJM8usCg"

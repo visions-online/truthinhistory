@@ -1,13 +1,13 @@
 ---
 title: "A Lost People and a Vanished Sceptre"
-date: 2020-03-14T15:40:24+06:00
+date: 2022-03-14T15:40:24+06:00
 # post thumb
 images:
   - "images/post/post-1.jpg"
 #author
-author: "John Doe"
+author: "George Owen Barnes"
 # description
-description: "GEORGE OWEN BARNES"
+description: "Testimony of Evangelist George O. Barnes"
 # Taxonomies
 categories: ["religious-history"]
 tags: ["testimony","Israel"]
