@@ -1,3 +1,19 @@
+---
+title: life-begins-at-47.md
+date: 2022-02-18T15:02:67-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - life-begins-at-47.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 Among some of the most tireless and tenacious workers in the vineyard of the Lord, in spite of physical difficulties and opposing forces was Dr. John. A. Lovell. As a young man John Lovell was converted to a living faith in Jesus Christ. He received his B.A. degree from Harden-Simmons University in Abilene, Texas. In his burning desire to work for the Lord and to serve His people, in addition to his obligations while attending University, he would drive to various small churches to minister on the week-ends. He founded and/or served several Baptist churches during the late 1920's through the 1930's.
 
 As a young man in his mid twenties, John Lovell began to reap the physical consequences of his ceaseless activities and tireless labor of love. He developed a serious throat condition and was advised to take a period of prolonged rest. In 1934 he traveled to Miami, Florida in hopes of finding a comfortable environment in order to recover. Even in his weakened condition, while in Miami he became involved in Christian ministry and in-depth study of the Holy Scriptures. While sincerely seeking the Lord through His Word and prayer, the Holy Spirit began to reveal to him the profound truth of the Christian Israel Kingdom Covenant message of Scripture and its fulfillment in the Western European people of today.

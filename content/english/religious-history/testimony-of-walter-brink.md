@@ -1,3 +1,19 @@
+---
+title: testimony-of-walter-brink.md
+date: 2022-02-18T15:02:91-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - testimony-of-walter-brink.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 I was very fit and active and participated in triathlon involving rowing, cycling and jogging. I was at the Hoedspruit Air Force Base where I did my national service, and where we had a lot of time for exercise. At the base, there were two main groups of people, those who were active and those who were not. Because I was with the active lot and was very fit I thought I was a little better than the others, in the sense that every now and then I went to Church and you have the impression that what you do in your own power you can place yourself above the rest and you think you are alright.
 
 We went scuba diving in the Blyde River 20km from Hoedspruit Air Force Base. We really wanted to do a night dive and arrived already in the afternoon, unpacked our gear and got everything ready and in the late afternoon before sunset, we decided first to go and check the visibility in the water. The pool in which we were to dive was about 200m long, 30m at its widest and 8m deep. There were many beautiful trees on the banks of the river. We went into the water to swim in a circle to determine the visibility. About 30m from the shore on our return about 6m deep I was at the bottom of the river swimming and I was looking at a fish in the water which was stationary. The water was very clear and clean and the view was good.

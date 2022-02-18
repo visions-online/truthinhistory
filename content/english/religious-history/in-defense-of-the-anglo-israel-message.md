@@ -1,3 +1,19 @@
+---
+title: in-defense-of-the-anglo-israel-message.md
+date: 2022-02-18T15:02:86-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - in-defense-of-the-anglo-israel-message.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 Doctrinal differences within the body of Christ have existed since the first century believers. Even the Apostles Paul and Peter had a face to face confrontation (Gal. 2:11-14). The church council at Jerusalem was characterized by “much disputing” (Acts 15:7). In spite of these differences there were no strong denunciations excluding anyone from the body of Christ or committing one to the region of the damned. One lesson that every mature Christian learns is that there are genuine saints in other dimensions of understanding that would strongly disagree in different areas of doctrine, but this gives no right to utter condemnation upon another Christian believer. This attitude seems to be toward everyone except those who believe the Anglo-Israel prophetic perspective.
 
 

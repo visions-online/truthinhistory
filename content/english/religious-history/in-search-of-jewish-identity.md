@@ -1,3 +1,19 @@
+---
+title: in-search-of-jewish-identity.md
+date: 2022-02-18T15:02:69-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - in-search-of-jewish-identity.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 “Then said the LORD unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.” Jer. 24:3
 
 Without doubt, one of the most perplexing questions in the realm of Biblical and secular anthropology can be summed up in four words; “What is a Jew?” Thousands of sermons have been preached about the Jews without ever defining what a Jew is. A plethora of books and articles have been written about the people known as Jews, but most authors fail to give a thorough identification of the people whom they are writing about. Authors, ministers and professors take for granted that the vast majority of their readers and listeners know to whom they are referring when they make a reference to the people known as Jews. Everyone who has the slightest knowledge of Scripture realize that the Jews have some connection with the various characters of Old and New Testament history. It would be rare to find an individual in a western society that does not have at least an elementary idea as to what a Jew is. Church-goers and professing Christians who are regularly under the influence of pulpit preaching by evangelical ministers, most likely would have a more familiarity with the term yet still lack a thorough understanding of ‘who’ and ‘what’ is a Jew.

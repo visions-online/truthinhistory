@@ -1,3 +1,19 @@
+---
+title: clarence-larkins-charts.md
+date: 2022-02-18T15:02:06-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - clarence-larkins-charts.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The theology of Ribera, by Larkin’s own admission.
 
 By Robert Caringola

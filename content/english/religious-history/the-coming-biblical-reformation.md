@@ -1,3 +1,19 @@
+---
+title: the-coming-biblical-reformation.md
+date: 2022-02-18T15:02:52-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - the-coming-biblical-reformation.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 Has God promised yet another spiritual revival for our land? If so, what will it be like?
 
 The Coming Biblical Reformation in Fulfillment of All Prophetic Expectations.

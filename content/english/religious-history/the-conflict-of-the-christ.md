@@ -1,3 +1,19 @@
+---
+title: the-conflict-of-the-christ.md
+date: 2022-02-18T15:02:08-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - the-conflict-of-the-christ.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The INCARNATION of the eternal Son, involving the virgin birth of the Lord Jesus Christ was a plan conceived in the mind of the Infinite before the dawn of creation.
 
 Think of Christ correctly. Take Him out of the man class. Put Him in the God class. He never had a beginning. He is an eternal being. Associate yourself with Him and you will become a recipient of the same eternal life that we saw manifested in Him during the days of His flesh. He was born into this life for a purpose.

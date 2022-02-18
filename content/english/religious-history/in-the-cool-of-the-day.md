@@ -1,3 +1,19 @@
+---
+title: in-the-cool-of-the-day.md
+date: 2022-02-18T15:02:48-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - in-the-cool-of-the-day.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 In His merciful plan, our God so favors His people in choosing His servants and giving them as 'gifts' unto the Body of Christ. This is what our Lord did when He chose a young English lad named, William Pascoe Goard.
 
 He was born in Cornwall, England in1863. He was miraculously converted to Christ while still a young boy. At the insistance of his father he studied law, but his first love through a divine call was to preach the Gospel of Jesus Christ. He preached his first sermon at the age of fourteen.

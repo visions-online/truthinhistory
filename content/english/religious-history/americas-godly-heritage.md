@@ -1,3 +1,19 @@
+---
+title: americas-godly-heritage.md
+date: 2022-02-18T15:02:14-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - americas-godly-heritage.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 
 as seen in T. H. Matheson's painting: "The First Prayer in Congress" circa 1848. "Remove not the ancient landmarks, which thy fathers have set."
 

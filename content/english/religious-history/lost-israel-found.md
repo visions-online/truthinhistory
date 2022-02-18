@@ -1,3 +1,19 @@
+---
+title: lost-israel-found.md
+date: 2022-02-18T15:02:41-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - lost-israel-found.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 
 ## In Their Own Words - Jewish Testimonies concerning the Ten "Lost" Tribes of Israel
 

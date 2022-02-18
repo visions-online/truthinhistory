@@ -1,3 +1,19 @@
+---
+title: life-and-ministry-of-john-alexander-dowie.md
+date: 2022-02-18T15:02:95-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - life-and-ministry-of-john-alexander-dowie.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 As a forerunner of what God has prepared for His people in the next generation, He always sends a messenger "to make ready a people prepared for the Lord" (Luke 1:17). Usually, that messenger is thought of as being strange by the religious standard of the day and often strongly rejected by the ruling church authorities. One such God-ordained messenger who was the forerunner in preparation for the Twentieth Century ministry of divine healing was John Alexander Dowie. One writer recalls:
 
 "John Alexander Dowie holds an unique and definite place in the development of apostolic ideals for the Church of the Twentieth Century. His life mission and work present a fascinating, romantic object lesson for those interested in progressive Christianity. Singlehanded, as Elijah of old, he denounced the decadent order of the day, and protested mightily against apostasy, both of the Protestant and Catholic divisions of the Church and heralded a New Day of a Thousand Years when Jehovah would hold sway over a redeemed people on the renewed earth."

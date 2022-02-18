@@ -1,3 +1,19 @@
+---
+title: queen-victoria-heir-to-king-davids-royal-throne.md
+date: 2022-02-18T15:02:38-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - queen-victoria-heir-to-king-davids-royal-throne.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 Of all the spiritual revivals that have taken place on the American Continent, none has been so influential, far- reaching and enduring as the Pentecostal Spirit-outpouring of the early 20th century. There were earlier revivals such as the mid-eighteenth century First Great Awakening of New England and the Second Great Awakening of the Midwest at the turn of the nineteenth century. They helped to preserve the moral and spiritual standards of Biblical Christianity in the American people in preparation of greater things to come. One of the most phenomenal and sovereign spiritual awakenings ever to occur in American history is the spiritual revival which took place among the Southern Army during the war years of 1861-1865. The fruits of this revival eventually spawned the establishment, growth and expansion of more churches, Bible schools, camp meetings and evangelistic efforts than any previous revival. As a natural result, this created the perfect climate for the Holiness revival which was soon to follow in the 1880's and 1890's. These revivals of the past were not the only thing that God had in store for the Body of Christ that would revolutionize the lives of millions, both at home and abroad.
 
 Soon after the turn of the twentieth century, an event would take place in the very heartland of America that would be both miraculous and most influential upon the institution of the modern church. That event would be the outpouring of the Holy Spirit in fulfillment of the words of the prophet Joel (2:28-29) and the affirmation of the Apostle Peter as recorded in Acts 2:14-18.

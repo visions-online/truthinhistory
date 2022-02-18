@@ -1,3 +1,19 @@
+---
+title: george-r.-hawtin-where-are-the-covenant-millions-of-israelites-today.md
+date: 2022-02-18T15:02:52-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - george-r.-hawtin-where-are-the-covenant-millions-of-israelites-today.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The name of George R. Hawtin was once widely known throughout North America’s mid twentieth century Pentecostal and Latter Rain movements. He was a prominent leader in the 1948 Latter Rain outpouring which first took place at Sharon Orphanage and Bible School in North Battleford, Saskatchewan, Canada. He was previously a pastor in the Pentecostal Assemblies of Canada, where he pioneered Bethel Bible Institute at Star City in 1935. He resigned from that denomination in 1947 and joined Herrick Holt of the North Battleford Church of the Foursquare Gospel in an independent work that Holt had established. Hawtin became president of Sharon’s Global Missions.
 
 On February 12, 1948 spiritual revival broke out at the Bible School at Sharon, which put both George and his bother Ern into prominence during the resulting Latter Rain movement. This revival was characterized by many reports of divine healings and other miraculous events. Ern Hawtin reported that the Lord demonstrated his majestic power at the Sharon school in a “strange new manner. Some students were under the power of God on the floor, others were kneeling in adoration and worship before the Lord. The anointing deepened until the awe of God was upon everyone.” George Hawtin later reported, “That all heaven broke loose upon our souls and heaven above came down to greet us.” These types of spiritual phenomena would be experienced by thousands of people all across the United States and Canada. This spiritual outpouring would be a major factor which helped to precipitate the prominence of many evangelists in the divine healing movement. Due to this revival, the ministries of evangelists such as William Branham, Oral Roberts, Gordon Lindsay and many others were welcomed in that atmosphere of spiritual openness.

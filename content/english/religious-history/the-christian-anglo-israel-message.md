@@ -1,3 +1,19 @@
+---
+title: the-christian-anglo-israel-message.md
+date: 2022-02-18T15:02:93-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - the-christian-anglo-israel-message.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 What mainstream media and preachers said about it in the United States and Canada Re. William H. Poole, LL.D., was a minister of Detroit, Michigan ( some sources indicate Poole was of Toronto. Possibly he was born in Toronto and later moed to Detroit, Michigan) and authored the book "Anglo-Israel or the Saxon Race?: Proed to be the Lost Tribes of Israel (1889), which was presented first as a series of nine lectures. This book was published by William Briggs (Toronto) in 1879/1889, James Huggins Publishers and Distributors (New York) in 1880.
 
 Re. Poole gae other lectures and wrote other books including:

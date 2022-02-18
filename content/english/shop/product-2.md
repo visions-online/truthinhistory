@@ -1,18 +1,20 @@
 ---
-title: "Side Bag"
+title: "John Knox & Scottish Covenanters DVD"
 date: 2020-03-14T15:40:24+06:00
 # post thumb
 images:
-  - "images/shop/product-2.jpg"
+  - "images/shop/john-knox-dvd.jpg"
 
 # product Price
-price: "30.00"
+price: "15.00"
 discount_price: ""
 
 # description
-description: "This is meta description"
+description: "Explore the trials and triumphs of the 17th century Scottish Covenanters in a brand new professional quality DVD produced by TRUTH IN HISTORY."
 draft: false
 ---
+# JOHN KNOX AND THE SCOTTISH COVENANTERS
 
+Filmed on site in Edinburgh, Scotland.  You will see the actual sites made sacred by the undying faith and total commitment of the Scottish Covenanters to Jesus Christ and the principles of their Protestant forefathers.   Through this exciting DVD you will visit St. Giles Cathedral where John Knox once pastored, the Magdalen Chapel where the Covenanters pledged themselves to Christ and the National Covenant, Haymarket Square where thousands were martyred and Greyfriars Kirkyard Cemetery where many were buried.  The story is told by Presbyterian minister Rev. Sinclair Horne, Secretary of the Scottish Reformation Society for 44 years.  There is no other video like this that tells the story of these great heroes of the Scottish Protestant Reformation.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+Running time 28:30

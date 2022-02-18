@@ -1,13 +1,13 @@
 ---
 title: "A Lost People and a Vanished Sceptre"
-date: 2022-03-14T15:40:24+06:00
+date: 2022-01-14T15:40:24+06:00
 # post thumb
 images:
   - "images/post/post-1.jpg"
 #author
-author: "George Owen Barnes"
+author: "Charles A. Jennings"
 # description
-description: "Testimony of Evangelist George O. Barnes"
+description: "Who are God's chosen people?"
 # Taxonomies
 categories: ["religious-history"]
 tags: ["testimony","Israel"]

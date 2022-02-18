@@ -4,20 +4,20 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo.png"
 # use `x` with logo_width, example: "100x"
-logo_width = "150x"
+logo_width = "184x"
 # logo text will only show when logo is missing.
 logo_text = "LogBook"
 page_not_found_image = "images/404.png" # 404 error page image
 # image gallery shortcode
 image_gallery = true
 # email address
-email = "orders@truthinhistory.org"
+email = "brian@visions-online.com"
 # contact form action
 contact_form_action = "https://airform.io/brian@visions-online.com" # contact form works with https://formspree.io
 # search
 search = true
 # main sections
-mainSections = ["post", "religious-history"]
+mainSections = ["post", "religious-history", "praise-and-worship", "cultural-history", "television-programs"]
 # featured post
 featured_post = true
 # layout
@@ -48,8 +48,8 @@ currency = "$"
 
 # promotion
 [promotion]
-title = "Order Free Magazine!!"
-content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+title = "Order Our Free Magazine!!"
+content = "We produce a magazine every four months. January - May - September"
 image = "images/promotion.jpg"
 button_label = "Get Started"
 button_link = "#"

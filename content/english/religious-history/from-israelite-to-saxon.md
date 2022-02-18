@@ -1,3 +1,19 @@
+---
+title: from-israelite-to-saxon.md
+date: 2022-02-18T15:02:52-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - from-israelite-to-saxon.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 In speaking of the United States and Britain as modern Israel, it is necessary to remember certain things in order to avoid confusion. First of all, the people of Israel were no more divided into tribes, but had, centuries before, passed into the more advanced stage of national organization. It is the natural progress of any progressive people. First, it is the family, then the tribes, then the nation embracing the tribes. We must think of Israel as a nation and a company of nations, no more called Israel, for the best of reasons, but called by the name, above all others, of sons or House of Isaac, or Saxons, with many other branch names.
 
 Secondly, we must remember that they were not the original founders of Israel in the Isles - that is to say, in Britain - but they came in very late in British history, even a thousand years after the House of David had arrived and been established there.

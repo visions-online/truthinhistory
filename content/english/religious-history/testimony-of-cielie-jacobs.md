@@ -1,3 +1,19 @@
+---
+title: testimony-of-cielie-jacobs.md
+date: 2022-02-18T15:02:31-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - testimony-of-cielie-jacobs.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 ## Healed of Cancer
 
 ### Sister Cielie Jacobs: 

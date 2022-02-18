@@ -1,3 +1,19 @@
+---
+title: only-in-america.md
+date: 2022-02-18T15:02:51-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - only-in-america.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 ## The 10 Lost Tribes
 
 Isaiah, the prophet, wrote that the remnant of Yawheh's people would be found in the "isles of the sea."  Isn't it reasonable this remnant may be the people of the British Isles?

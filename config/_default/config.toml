@@ -3,7 +3,7 @@ baseURL = "/"
 title = "Truth in History | Teaching the revelations of Jesus Christ as Prophet, Priest, and King"
 theme = "logbook"
 # post pagination
-paginate = "5"
+paginate = "8"
 # post excerpt
 summaryLength = "50"
 # google analytics

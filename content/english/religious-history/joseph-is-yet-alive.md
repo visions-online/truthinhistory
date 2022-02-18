@@ -1,3 +1,19 @@
+---
+title: joseph-is-yet-alive.md
+date: 2022-02-18T15:02:12-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - joseph-is-yet-alive.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 During the first half of the twentieth century, it was by divine providence that there appeared many spiritual giants on the American religious scene. One such man that God divinely called, anointed and sent forth to proclaim His Word was Evangelist Charles Orville Benham. He was born on March 4, 1891 in Green County, Indiana. As a young lad of only nine years old, C.O. Benham experienced the saving power of Jesus Christ during a Methodist revival near his home. It is reported that he was the only convert in that country church revival, but from there his Godly influence would touch the lives of multiplied thousands of people throughout his lifetime. Not long after his conversion, he felt the call of God into full-time Christian ministry. In 1914 he attended Moody Bible Institute in order to further his education in the Scriptures. One of his fellow students that same year was Dr. Bob Jones, Sr.
 
 As a young man, Benham was active in evangelistic work with some of the early Pentecostal pioneers of the twentieth century. Early on, he learned to play the cornet and banjo which he used throughout his evangelistic career. He also wrote several gospel songs. With his musical ability coupled with his spiritual zeal he was a real asset to prominent evangelists of his day. For a while he served as an assistant to Fred F. Bosworth in his evangelistic crusades and was for a time the song leader and music director for the famous evangelist Billy Sunday.

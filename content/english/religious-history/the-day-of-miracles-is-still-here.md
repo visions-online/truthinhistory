@@ -1,3 +1,19 @@
+---
+title: the-day-of-miracles-is-still-here.md
+date: 2022-02-18T15:02:52-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - the-day-of-miracles-is-still-here.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The Testimony of healing given by Betty Baxter, 15 year old girl of Northfield, MN, at the Minneapolis Gospel Tabernacle. I would rather get up and tell what Jesus has done for me, and to preach the unsearchable riches of Jesus Christ than to eat or sleep; and I hope and pray that Jesus will some day use me as an evangelist. I am going to tell you just now what Jesus has done for me.
 
 Many times I was prayed for and the Lord healed me from different things. One time I had a high fever, and was so sick I couldn’t move for three days. We called for the elders of the church, who prayed for me, and Jesus touched me and I sat up in bed and said, "Oh! the fever is gone." But Jesus never completely delivered me until August 24 last, and there was no preacher there, no deacons there, but Jesus was there. You may have been prayed for many times, but don’t give up. What if I had given up and said, "there is no use; Jesus isn’t going to heal me"? Suppose I had given up on August 23 - I would never have been healed. Don’t give up, just go a little farther. When Naaman was told to dip in the Jordan River seven times, what if he had only dipped six times? He would never have been healed. But he obeyed and dipped seven times as he had been commanded. He kept holding to that promise and at last he saw God fulfill it.

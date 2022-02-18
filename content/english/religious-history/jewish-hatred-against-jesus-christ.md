@@ -1,3 +1,19 @@
+---
+title: jewish-hatred-against-jesus-christ.md
+date: 2022-02-18T15:02:50-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - jewish-hatred-against-jesus-christ.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 Was there an organized Jewish conspiracy against the life and ministry of our Savior - the Lord Jesus Christ? Let the Scriptures speak for themselves!
 
 >". . . of the Jews: Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men: Forbidding us to speak to the Gentiles that they might be saved, to fill up their sin alway: For the wrath is come upon them to the uttermost."

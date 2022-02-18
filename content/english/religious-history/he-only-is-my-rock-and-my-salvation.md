@@ -1,3 +1,19 @@
+---
+title: he-only-is-my-rock-and-my-salvation.md
+date: 2022-02-18T15:02:55-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - he-only-is-my-rock-and-my-salvation.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 In the earthly ministry of our Lord, He asked His disciples a most pertinent question; “Whom do men say that I the son of man am?” In response, the disciples gave the Lord the various opinions that were prevalent among the people at the time. Then our Lord asked His disciples a more direct question, “But whom say ye that I am?” The Apostle Peter then boldly declared by divine revelation, “Thou are the Christ, the son of the living God.” The Lord readily acknowledged that this declaration came from His Father in heaven and not by earthly wisdom. Jesus then uttered a statement involving a truth that had its beginning with the Hebrew patriarchs of old. Jesus said, “upon this rock I will build my church” (Matt. 16:13-18). W.E. Vine defines this word ‘rock’ as; petra, which denotes a mass of rock as opposed to just a fragment.
 
 It is evident that the Lord Jesus meant it was the revealed declaration concerning His deity upon which He was going to build His church. Among most New Testament believers, it is commonly accepted that the Lord was establishing a brand new institution. They believe this institution called the church would exist in New Testament times and would be totally separate from the Old Testament Kingdom of Israel. In contrast to this belief, the Apostle Paul in writing to the Ephesian saints said that the foundation of the church would be built upon both the New Testament Apostles and Old Testament Prophets (Eph. 2:11-22). Paul then says that Jesus Christ, He whom Peter earlier declared was the Son of God, was the chief cornerstone.

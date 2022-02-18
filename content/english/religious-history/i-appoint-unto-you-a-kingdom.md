@@ -1,3 +1,20 @@
+---
+title: "I Appoint Unto You a Kingdom"
+date: 2022-03-14T15:40:24+06:00
+# post thumb
+images:
+  - "images/post/post-1.jpg"
+#author
+author: "John Alexander Dowie"
+# description
+description: "Testimony of Evangelist George O. Barnes"
+# Taxonomies
+categories: ["religious-history"]
+tags: ["testimony","Israel"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+
 After many years of serious and prayerful contemplation concerning the Anglo-Israel truth, it is very evident to me that its profound and positive influence upon all mankind would be immeasurable if it had been taught as part of traditional Biblical theology. The declaration of the various forms of the ‘gospel’ message disseminated whole wide for the last 250 years by the modern church has resulted in bitter sweet consequences. Among the sweet results as been the genuine spiritual conversion to Christ of multiplied thousands of people both within the Covenant nations and throughout the world. Local churches have been established with caring pastors and congregations who have reached out and ministered to their communities. But it is the bitter results that have been reaped due to the perversion of the true Gospel message. The message of the Bible has been used to justify every evil imagination of ungodly men from the religion of humanism to the extremes of moral degeneracy. Educated and degreed ‘men of the cloth’ in high places of religious authority have placed their approval on and even been involved in such deviant causes as moral relativism, pantheism, racial, political and cultural revolutions.
 
 >“Let our statesmen, our clergy and ministers take hold of British Israel truth. We shall then see how it will sweep over our land and over our empire and what a transformation of our race will follow! It embraces all prophecy, all history and affects all mankind.”
@@ -21,8 +38,11 @@ In the earthly ministry of our Lord, He referred many times to “The Kingdom of
 1. It is the only Biblical message that properly incorporates all five aspects of God’s Kingdom which are: People, land, law, throne and king.
 
 >A. PEOPLE - The people of God’s Old Testament Kingdom were the Israelites of the seed of Abraham. Modern theology either denies the literal existence of the descendants of ancient Israel or wrongly identifies them as being found only in the ‘Jewish’ people. The Apostle Paul clearly stated during the New Covenant era that “God hath not cast away His people [Israel] which He foreknew’ (Romans 11:1-2). Both the prophet Jeremiah and the writer of Hebrews makes it very clear that the Christian Covenant ratified by Jesus Christ Himself would be made “with the House of Israel and the House of Judah” Jer. 31:31-34.
->B. LAND - Geographical land mass is an imperative part of any kingdom, whether it be God’s literal kingdom or a secular kingdom. In the Old Testament, God promised the land of Canaan as a possession to the seed of Abraham, Isaac and Jacob. This promise was fulfilled under the leadership of Joshua in the conquest of the Promised Land. Approximately 450 years later, the Lord gave a promise to King David through the prophet Nathan that He would give an additional land to His people which would be their final and permanent home. “Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime” (II Sam. 7:10). It is very obvious that the new home for God’s people Israel is Northwest Europe, the British Isles, North America and other places where they have settled.
+
+B. LAND - Geographical land mass is an imperative part of any kingdom, whether it be God’s literal kingdom or a secular kingdom. In the Old Testament, God promised the land of Canaan as a possession to the seed of Abraham, Isaac and Jacob. This promise was fulfilled under the leadership of Joshua in the conquest of the Promised Land. Approximately 450 years later, the Lord gave a promise to King David through the prophet Nathan that He would give an additional land to His people which would be their final and permanent home. “Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime” (II Sam. 7:10). It is very obvious that the new home for God’s people Israel is Northwest Europe, the British Isles, North America and other places where they have settled.
+
 >C. LAW - Most of modern liberal and evangelical theology is totally antinomian in its approach, thereby doing away with the God-given standard wherewith to govern society. The Pauline Epistles are quite emphatic that the laws of ordinances and ceremonies were fulfilled in the person and work of Jesus Christ. The moral laws and the statutes governing human relations must remain valid, otherwise a lawless society results. The Anglo-Israel position is the only Christian prophetic message that allows God’s law, the prophets and the Apostles to dictate both the personal and national standards whereby we should live. God’s law is both our inward light and our outward guardian.
+
 >D. THRONE - In order to avoid a chaotic society and maintain a stable Christian culture, there must exist a supreme seat of civil and religious authority. The source of all just and equitable law proceeds from the divine throne of God Himself. If God’s law is not given supremacy with a proper recognition of its source as coming from the highest seat of authority in the universe, then man-centered humanism will take its place.
 >E. KING - It is absolutely imperative that we as Christians recognize the High Priesthood of the Lord Jesus Christ in His redemptive work of salvation. It is also important that we recognize that our Lord fills the office of Prophet as He Himself is the Word of God made flesh. It is equally imperative that Christians recognize the rightful position of Jesus Christ as the King over His Kingdom. As the final authority over all things both civil and religious, Jesus Christ is both the head of the church and king over the state. In the Anglo-Israel theology, our victorious Lord is properly recognized as Prophet, Priest and King.
 

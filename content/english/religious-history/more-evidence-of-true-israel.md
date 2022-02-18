@@ -1,3 +1,19 @@
+---
+title: more-evidence-of-true-israel.md
+date: 2022-02-18T15:02:34-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - more-evidence-of-true-israel.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 Before I became a Christian, I believed, as the most of my Jewish brethren still believe, that the Ten Tribes of Israel exist, somewhere, as a powerful nation, having a king of their own, and that they are hidden from the sight of men until the coming of the expected Messiah. An Introduction by Charles A. Jennings
 
 Elieser Bassin was born in Russia in the nineteenth century of pious and wealthy Jewish parents. While still a young man, he moved to Great Britain in 1876. Bassin accepted Jesus Christ as the true Messiah of Israel and became a most scholarly and devoted Christian.

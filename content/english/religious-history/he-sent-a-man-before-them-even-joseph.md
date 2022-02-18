@@ -1,3 +1,19 @@
+---
+title: he-sent-a-man-before-them-even-joseph.md
+date: 2022-02-18T15:02:62-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - he-sent-a-man-before-them-even-joseph.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 In reviewing the history of the many lives of the Old Testament, the sacred record presents to us a wide variety of personalities. Every character whose lives, words or deeds that became a part of Biblical history was necessary to develop God’s master plan for His glory in the earth. One Biblical character whose life and destiny that has been woven into the fabric of human history is Joseph, the eleventh son of the patriarch Jacob. The magnitude of the divine promise given to Joseph’s great grandfather in the Abrahamic Covenant is actually fulfilled in the dual offspring of this one who was “separate from his brethren” Gen 49:26.
 
 The inspired writer of Psalm 105 in recounting the covenantal relationship of the Abrahamic family, succinctly and briefly states the major part in which the Lord used Joseph to preserve the chosen family. The text reads; “He [God] sent a man before them, even Joseph, who was sold for a servant: Whose feet they hurt with fetters: he was laid in iron: Until the time that his word came: the word of the LORD tried him. The king sent and loosed him; even the ruler of the people, and let him go free. He made him lord of his house, and ruler of all his substance: To bind his princes at his pleasure; and teach his senators wisdom.” Psa. 105:17-22.

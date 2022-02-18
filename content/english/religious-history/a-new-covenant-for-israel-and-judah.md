@@ -1,3 +1,20 @@
+---
+title: "A New Covenant for Israel and Judah"
+date: 2022-01-14T15:40:24+06:00
+# post thumb
+images:
+  - "images/post/post-1.jpg"
+#author
+author: "Charles A. Jennings"
+# description
+description: "Who are God's chosen people?"
+# Taxonomies
+categories: ["religious-history"]
+tags: ["testimony","Israel"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+
 THE BEGINNING OF THE NEW YEAR brings with it the thought of the new things which God gives to those who obey and serve Him.
 
 ## JUDAH AND ISRAEL ARE GOD'S CHOSEN PEOPLE

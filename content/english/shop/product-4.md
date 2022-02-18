@@ -1,14 +1,13 @@
 ---
-title: "Pink T-Shirt"
+title: "Re-formation of Israel in the West Map"
 date: 2020-03-14T15:40:24+06:00
 # post thumb
 images:
-  - "images/shop/product-4.jpg"
-  - "images/shop/product-2.jpg"
+  - "images/shop/israel-map.jpg"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "2.00"
+discount_price: ""
 
 # description
 description: "This is meta description"
@@ -16,4 +15,4 @@ draft: false
 ---
 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+srael's captivitiy begins the migration westward. As thee Israelites migrated west, their names changed over the centuries. For Example, the Sons of Isaac would in time be shortened to "Isaac-Sons," and then to "Saxsons," until today when they are know as "Saxtons." The tribe of Dan settled in Denmark (Dan-merk). Their name shows up in names such as the Danube River, the Dniester, Dnieper, Danapus Rivers, etc.

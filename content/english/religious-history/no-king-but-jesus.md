@@ -1,3 +1,19 @@
+---
+title: no-king-but-jesus.md
+date: 2022-02-18T15:02:95-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - no-king-but-jesus.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The crisis of the ages demands that we renew the historic battle-cry of our Christian Forefathers: "We Have No King But King Jesus!"
 
 >"Remove not the ancient landmarks which thy fathers have set."

@@ -1,3 +1,19 @@
+---
+title: from-freedom-to-bondage.md
+date: 2022-02-18T15:02:57-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - from-freedom-to-bondage.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The Personal Testimony of Evangelist Lorne F. Fox. The dealings and leadings of the Lord in the life of your writer have been very precious and wonderful, and it is one of the greatest joys of my life to tell the sweet story of the Christ who even today has almighty power to save the soul, and heal the sick and afflicted body.
 
 Illness began not long after my fourth birthday had passed. Trouble started with a sunstroke of a most serious nature. We were living at that time in a town located in north-central Alberta, Canada. Three doctors were available in that general section, and they were summoned as quickly as possible. All three doctors worked for several hours, and then finally told my mother and father that there was no hope...a few hours at most, and then death.

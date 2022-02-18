@@ -1,3 +1,19 @@
+---
+title: our-spiritual-heritage-and-the-coming-biblical-reformation.md
+date: 2022-02-18T15:02:15-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - our-spiritual-heritage-and-the-coming-biblical-reformation.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 One of the cries from the very heart of many of God\'s people today is
 for a true spiritual revival. Even though there are many misconceptions
 concerning what a real Biblical revival is, still the hungry hearts of

@@ -1,3 +1,19 @@
+---
+title: i-am-a-firm-believer.md
+date: 2022-02-18T15:02:61-06:00
+
+images:
+  - "images/post/post-1.jpg"
+author: "Charles A. Jennings"
+
+Description: Truth in History - i-am-a-firm-believer.md
+
+categories: ["religious-history"]
+tags: ["history", "bible"]
+type: "regular"
+draft: false
+---
+
 The war in the East was checked by the great powers of Europe; who would not allow it to go further because Europe must have been drawn into the war, and it had to be stopped. That could only last a short time. But meanwhile, such an opportunity is given to the Church of God to proclaim the Gospel of Jesus Christ in the times of this profound peace; when the nations can listen to the voice of God; I tell you such an opportunity is given as this earth, until its last battle has been fought will never again see. It seems to me we have everything in our favor in preaching the Gospel of the King. Let me show you what we have in our favor. We have the British Empire, with the flag of the ‘Cross’ floating over nearly 400,000,000 of this earth’s inhabitants. We have the ‘Stars and Stripes’ of the same people, of the Anglo-Saxon race, floating over 70,000,000. We have defended and protected people to the number of 30 or 50 millions, protected by the great nations, Britain and America; and the Anglo-Saxon people have therefore directly and indirectly over 500 million of earth’s people beneath their flags. More than one third of the whole population of the world, and by far more than one third of its intelligence and power. For practically the money and the manliness and the strength and the religion and the power with God that is given on this earth is within, with a few exceptions, the Anglo-Saxon nations. I want to say this; that I am an Anglo-Israelite. The blood of the Hebrews is in my veins. My fathers in the Roman age were Hebrews. They came from the ancient Israelites; and before the Romans settled in Scotland, our family gathered under the mountain of Ben Macdhui; which is my name in Scotch. Not Dowie, but Dhui. And to this day our language under that mountain is Hebraistic. Our customs are Hebraistic. Our spirit is the spirit of Israel. And ye my brethren who belong to the Anglo-Saxon nation, or who are engrafted into them through other nations, let me tell you that you are the Israel of God; and the Kingdom of God must first be established through Isaac’s sons. And that is the Anglo-Saxon race of this day. The seed is becoming manifest in Isaac’s son. ‘In Isaac shall thy seed be called.’ And in Isaac God is calling His people. (September 27, 1895)
 
 Now 3,380 years ago, nearly 3400 years ago, God wrought the mighty deeds which today we have read about. And today God has got to work them again. Not exactly the same way; but with the same essential circumstances. In manner different; but in power the same. It seems to me today that the children of Israel are in bondage; and very largely, of a diabolic power. There has been in my mind for a long time this conviction, that is the children of Israel - now you know my views concerning that-
