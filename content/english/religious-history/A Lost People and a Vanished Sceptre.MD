@@ -1,3 +1,20 @@
+---
+title: "A Lost People and a Vanished Sceptre"
+date: 2020-03-14T15:40:24+06:00
+# post thumb
+images:
+  - "images/post/post-1.jpg"
+#author
+author: "John Doe"
+# description
+description: "GEORGE OWEN BARNES"
+# Taxonomies
+categories: ["religious-history"]
+tags: ["testimony","Israel"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+
 As further witness to the faithfulness and verity of our God in keeping His Word, the following testimony of Evangelist George O. Barnes is added to a long list of anointed messengers of God. Throughout his ministerial career, Rev. Barnes served as pastor, evangelist and missionary, not only in America but in many countries overseas. During his lifetime, without a doubt, he proved his love and commitment to the Lord Jesus Christ, not only in the life which he lived, the untiring service which he rendered to others, but also by his study and written testimony. Even after his formal ministerial training was completed at Princeton Theological Seminary, he pursued his intense study of God's Word and desire for further divine revelation concerning sacred knowledge and truth. The following testimony from his book, "A Lost People and a Vanished Sceptre," is an example of Rev. Barnes' interpretational knowledge of the prophecies and fulfillment of God's holy Word.
 
 In compiling his lectures into printed form in October 1906 in the city of Washington, D.C., Rev. Barnes clearly stated his purpose in his preface in the following words.

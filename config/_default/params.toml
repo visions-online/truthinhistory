@@ -11,13 +11,13 @@ page_not_found_image = "images/404.png" # 404 error page image
 # image gallery shortcode
 image_gallery = true
 # email address
-email = "georgia.young@example.com"
+email = "orders@truthinhistory.org"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://airform.io/brian@visions-online.com" # contact form works with https://formspree.io
 # search
 search = true
 # main sections
-mainSections = ["post"]
+mainSections = ["post", "religious-history"]
 # featured post
 featured_post = true
 # layout
@@ -43,7 +43,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [snipcart]
 enable = true
 # snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "N2E4NTI3ZjctMjJkNC00M2ZjLTk3ZDMtYmEzZTQwYjRhMTYwNjM3ODA1OTI0OTgzNTQ4MTM1"
 currency = "$"
 
 # promotion
@@ -52,13 +52,13 @@ title = "Create Stunning Website!!"
 content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
 image = "images/promotion.jpg"
 button_label = "Get Started"
-button_link = "https://themefisher.com/"
+button_link = "#"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Anglo-Irael", "Oneness", "Baptism", "Charles A Jennings"]
+description = "Teaching the word of God without fear of favor"
+author = "Charles A. Jennings"
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -107,19 +107,34 @@ sidebar = ["search", "about-me", "promotion", "subscription", "categories", "rec
 [[social]]
 name = "facebook"
 icon = "fab fa-facebook" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+link = "https://www.facebook.com/truthinhistorytv"
 
 [[social]]
 name = "twitter"
 icon = "fab fa-twitter" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/truthinhistory7"
 
 [[social]]
-name = "linkedin"
-icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+name = "tumblr"
+icon = "fab fa-tumblr" # fontawesome icons: https://fontawesome.com/icons/
+link = "http://truthinhistory.tumblr.com/"
 
 [[social]]
-name = "github"
-icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+name = "soundcloud"
+icon = "fab fa-soundcloud" # fontawesome icons: https://fontawesome.com/icons/
+link = "https://soundcloud.com/truth-in-history"
+
+[[social]]
+name = "podcast"
+icon = "fab fa-podcast" # fontawesome icons: https://fontawesome.com/icons/
+link = "https://soundcloud.com/truth-in-history"
+
+[social]]
+name = "spotify"
+icon = "fab fa-spotify" # fontawesome icons: https://fontawesome.com/icons/
+link = "https://open.spotify.com/show/74dydvrAwgPkrlKX1ADC3b?si=192cf13d0785407c"
+
+[social]]
+name = "youtube"
+icon = "fab fa-youtube" # fontawesome icons: https://fontawesome.com/icons/
+link = "https://www.youtube.com/channel/UCjrdGab0LFLLEVKxJM8usCg"
